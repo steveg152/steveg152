@@ -1,27 +1,13 @@
-### Welcome to my profile!
+# Hi! I'm Steve 👋
 
-## Overview
+[![Linkedin Badge](https://img.shields.io/badge/-Stephen_Greco-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steve-grecp/)](https://www.linkedin.com/in/steve-greco/)
 
-My name is Steve and I am a developer based out of Pittsburgh, Pa. 
+- 💻 Senior Software Engineer - 11+ years of experience
+- 👨‍💻 Personal Website: [stevegreco.dev](https://www.stevegreco.dev)
+- 📚 Currently Learning: Go, Postgres, SQLite
+- 🔭 Currently Working On: Interview Prep, Data Structures and Algorithms
 
-My objective is to always continue learning, over the past few years I have had a unique
-opportunity to learn many new technologies and tools. I enjoy creating things that other
-people enjoy using. I want to be part of a collaborative team that learns off of each other and
-pushes the boundaries to ship the best possible product. I enjoy contributing to the developer
-experience as well as the user experience, both play an important role in producing enjoyable
-products. 
+## Latest Blog Posts
 
-
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/steve-greco-28339767/)
-
-
-### Langauges & Tools
-
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />]()
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]()
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/storybook/storybook.png" />]()
-[<img  width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]()
+- [Choosing Tech in 2024: What Matters](https://www.stevegreco.dev/blog/2024-tech-stack)
+- [Building a Collaborative Development Culture](https://www.stevegreco.dev/blog/collaborative-culture)
